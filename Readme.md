@@ -16,11 +16,25 @@ cd ..
 cd ../..
 ls
 ls -la
-mkdir
-touch
+mkdir <folder>
+touch <filename>
 pwd
 ls -lah
+history
 clear 
 exit
 ```
 
+I also know a few commands in Git
+
+```bash
+git status
+git checkout -b <branchname>
+git status
+git add Readme.md
+git commit -m "message"
+git config --global user.email "email@test.test"
+git config --global user.name "name"
+git log
+git diff
+```
