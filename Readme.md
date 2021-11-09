@@ -20,6 +20,10 @@ mkdir <folder>
 touch <filename>
 pwd
 ls -lah
+vi <filename>
+cat <filename>
+cp <filename><filenamecoppy>
+rm
 history
 clear 
 exit
