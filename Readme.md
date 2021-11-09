@@ -8,7 +8,7 @@ It's kind of addicting
 I have music and analytics abilities
 
 ## My Linkedin
-[Martyna Zabielska] (https://www.linkedin.com/in/martyna-zabielska-055a02100/)
+[Martyna Zabielska](https://www.linkedin.com/in/martyna-zabielska-055a02100/)
 
 ## So far I learned:
 How to use Bash (on Windows)
